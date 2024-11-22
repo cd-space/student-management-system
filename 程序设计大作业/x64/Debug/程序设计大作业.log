@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\VS\Microsoft Visual Studio\项目\练习\程序设计大作业\程序设计大作业\源.cpp(249,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS\Microsoft Visual Studio\项目\练习\程序设计大作业\程序设计大作业\源.cpp(66): warning C4715: “Student::getScore”: 不是所有的控件路径都返回值
+  程序设计大作业.vcxproj -> D:\VS\Microsoft Visual Studio\项目\练习\程序设计大作业\x64\Debug\程序设计大作业.exe
